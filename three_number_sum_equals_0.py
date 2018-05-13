@@ -1,6 +1,7 @@
 class Solution:
     def threeSum(self, nums):
         """
+        Find 3 integer that a+b+c = 0 in array nums without duplicate triplets.
         :type nums: List[int]
         :rtype: List[List[int]]
         """

@@ -6,19 +6,24 @@ class Solution:
         """
         if len(nums) < 3:
             return []
-        result = []
-        single = {}
-        temp = {}
-        total = []
-        for k in range(0, len(nums)):
-            single[nums[k]] = k
-        for i in range(0, len(nums)):
-            for j in range(i+1, len(nums)):
-                two_sum = -nums[i]-nums[j]
-                if two_sum in single:                    
-                    if (single[two_sum] != i) and (single[two_sum] != j):
-                    temp = {two_sum, nums[i], nums[j]}
-                    if temp not in total:
-                        result.append([two_sum, nums[i], nums[j]])
-                        total.append(temp)
-        return result
+        
+        res = []
+        nums.sort()
+        for i in range(0,len(nums)-2):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+            l, r = i+1, len(nums)-1
+            while l < r:
+                s = nums[i] + nums[l] + nums[r]
+                if s < 0:
+                    l +=1 
+                elif s > 0:
+                    r -= 1
+                else:
+                    res.append((nums[i], nums[l], nums[r]))
+                    while l < r and nums[l] == nums[l+1]:
+                        l += 1
+                    while l < r and nums[r] == nums[r-1]:
+                        r -= 1
+                    l += 1; r -= 1
+        return res

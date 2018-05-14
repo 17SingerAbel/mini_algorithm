@@ -13,9 +13,14 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
     
     - subarray_max.py  
     Find the contiguous subarray (containing at least one number) which has the largest sum
+    
+* 5/14
+    - Doing my Gaming Project: CityFromNaught
 
 * 5/15
     
     - majority_element.py 
 
+    - roman_to_integer.py
+    
     - TODO

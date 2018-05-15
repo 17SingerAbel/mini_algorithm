@@ -28,4 +28,4 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
  * 5/16
     - longest_common_prefix.py
     
-    - longest_palindromic_substring.py
+    - longest_palindromic_substring.py  need to use DP, plan to finish it later

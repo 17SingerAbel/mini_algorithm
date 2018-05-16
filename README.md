@@ -6,7 +6,7 @@ The algorithm problems are mainly from leet code or csc373
 Daily Goal: one easy, one medium or hard problem on leetcode and the problems discussed on csc373
 
 
-* 5/13 
+* 5/12 
 
     - three_number_sum_equals_0.py    
     Find unique triplets in the array that a+b+c = 0
@@ -14,10 +14,10 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
     - subarray_max.py  
     Find the contiguous subarray (containing at least one number) which has the largest sum
     
-* 5/14
+* 5/13
     - Doing my Gaming Project: CityFromNaught
 
-* 5/15
+* 5/14
     
     - majority_element.py 
 
@@ -25,11 +25,11 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
     
     - integer_to_roman.py
     
- * 5/16
+ * 5/15
     - longest_common_prefix.py  
     - longest_palindromic_substring.py    
     need to use DP, plan to finish it later
     - container_with_most_water.py
     
- * 5/17
+ * 5/16
     - TODO

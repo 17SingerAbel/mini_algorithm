@@ -33,3 +33,4 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
     
  * 5/17
     - valid_parentheses.py
+    - cumulative_salary_employee.sql

@@ -31,5 +31,5 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
     need to use DP, plan to finish it later
     - container_with_most_water.py
     
- * 5/16
-    - TODO
+ * 5/17
+    - valid_parentheses.py

@@ -32,5 +32,8 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
     - container_with_most_water.py
     
  * 5/17
-    - valid_parentheses.py
-    - cumulative_salary_employee.sql
+    - valid_parentheses.py      
+    - cumulative_salary_employee.sql
+ 
+ * 5/18
+    - path_sum_ii.py

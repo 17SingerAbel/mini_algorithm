@@ -38,3 +38,9 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
  * 5/18
     - path_sum_ii.py    
     - merge_two_sorted_lists.py
+    
+ * 5/24
+    - min_stack.py
+    
+ * 5/25
+    - 

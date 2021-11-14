@@ -19,5 +19,6 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
   - 20-valid-parentheses.py
   - 125-valid-palindrome.py
   - 704-binary-search.py
+  - 121-best-time-to-buy-and-sell-stock.py 
 
 

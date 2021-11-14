@@ -9,7 +9,7 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
 
 ### November
 
-* 11/13
-- 1-two-sum.py
-- 53-maximum-subarray.py
-- 121-best-time-to-buy-and-sell-stock.py
+- 11/13
+  - 1-two-sum.py
+  - 53-maximum-subarray.py
+  - 121-best-time-to-buy-and-sell-stock.py

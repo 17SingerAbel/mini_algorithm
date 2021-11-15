@@ -21,6 +21,7 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
   - 125-valid-palindrome.py
   - 704-binary-search.py
   - 121-best-time-to-buy-and-sell-stock.py 
+  - 283-move-zeros.py
   - 344-reverse-string.py
   - 349-interaction-of-two-arrays.py
   - 680-valid-palidrome-II.py

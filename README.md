@@ -25,5 +25,6 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
   - 349-interaction-of-two-arrays.py
   - 680-valid-palidrome-II.py
   - 696-count-binary-substrings.py
+  - 977-squares-of-a-sorted-array.py
 
 

@@ -28,4 +28,12 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
   - 696-count-binary-substrings.py
   - 977-squares-of-a-sorted-array.py
 
+- 11/15
+  - 28-implement-strStr.py
+  - 141-linked-list-cycle.py
+  - 167-two-sum-II-input-sorted.py
+  - 202-happy-number.py
+  - 1213-intersection-of-three-sorted-arrays.py
+
+
 

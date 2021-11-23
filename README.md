@@ -35,5 +35,12 @@ Daily Goal: one easy, one medium or hard problem on leetcode and the problems di
   - 202-happy-number.py
   - 1213-intersection-of-three-sorted-arrays.py
 
+- Learning K8s, https://greg.jeanmart.me/2020/04/13/install-and-configure-a-kubernetes-cluster-w/
+
+- 11/23
+  -  252-meeting-room.py
+  -  253-meeting-room-II.py
+
+
 
 
